@@ -1,5 +1,5 @@
 # CMPG-323-Project2---31884288
 
-##Project Discription
+Project Discription
 
-##Use of Stakeholders
+Use of Stakeholders
